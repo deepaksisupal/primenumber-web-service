@@ -1,6 +1,3 @@
-####################
-# Common Variables #
-####################
 location    = "northeurope"
 company     = "deepCloud"
 environment = "dev"
